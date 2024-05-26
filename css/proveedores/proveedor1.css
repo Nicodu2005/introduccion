@@ -71,4 +71,27 @@ h1{
     font-size: 20px;
 }
 
+.ima{
+    position: relative;
+    text-align: center;
+    margin-right: 50%;
+    margin-left: 36%;
+}
+
+.ima img{
+    width: 500px;
+    height: auto;
+}
+
+.info{
+    position: relative;
+    width: 30%;
+}
+
+.info div{
+    font-size: 25px;
+    height: auto;
+    margin: 20px;
+}
+
 
